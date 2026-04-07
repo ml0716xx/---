@@ -1,0 +1,5 @@
+{
+  "name": "智慧居家养老-护理员端",
+  "description": "高能效、合规化的O2O闭环调度与服务履约系统，集成LBS调度、SOP标准化执行及紧急警报处理。",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
